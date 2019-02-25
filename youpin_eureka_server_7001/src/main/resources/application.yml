@@ -1,0 +1,10 @@
+server:
+  port: 7001 #设置端口
+eureka:
+  instance:
+    hostname:  www.eureka-7001.com  #设置主机名
+  client:
+    register-with-eureka: false #是否注册到服务中心
+    fetch-registry: false #是否注册到eureka
+    service-url:
+      defaultZone: http://www.eureka-7001.com:7001/eureka/ #这里是另一个中心的地址

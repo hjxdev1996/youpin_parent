@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/youpin_basic_parent/youpin_basic_parent.iml" filepath="$PROJECT_DIR$/youpin_basic_parent/youpin_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youpin_basic_parent/youpin_basic_util/youpin_basic_util.iml" filepath="$PROJECT_DIR$/youpin_basic_parent/youpin_basic_util/youpin_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youpin_config_server_9527/youpin_config_server_9527.iml" filepath="$PROJECT_DIR$/youpin_config_server_9527/youpin_config_server_9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youpin_eureka_server_7001/youpin_eureka_server_7001.iml" filepath="$PROJECT_DIR$/youpin_eureka_server_7001/youpin_eureka_server_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youpin_parent.iml" filepath="$PROJECT_DIR$/youpin_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youpin_plat_parent/youpin_plat_interface/youpin_plat_interface.iml" filepath="$PROJECT_DIR$/youpin_plat_parent/youpin_plat_interface/youpin_plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youpin_plat_parent/youpin_plat_parent.iml" filepath="$PROJECT_DIR$/youpin_plat_parent/youpin_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youpin_plat_parent/youpin_plat_service/youpin_plat_service.iml" filepath="$PROJECT_DIR$/youpin_plat_parent/youpin_plat_service/youpin_plat_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youpin_zuul_server_9527/youpin_zuul_server_9527.iml" filepath="$PROJECT_DIR$/youpin_zuul_server_9527/youpin_zuul_server_9527.iml" />
+    </modules>
+  </component>
+</project>
